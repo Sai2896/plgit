@@ -1,3 +1,5 @@
 sample file for rebase
 
-new addition
+new addition for mc1
+
+check this dood
